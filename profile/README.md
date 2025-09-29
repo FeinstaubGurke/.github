@@ -7,7 +7,7 @@ Mit den gewonnenen Daten möchten wir einen transparenten Überblick über die L
 
 - [Website](https://feinstaubgurke.at)
 - [Plattform für digitale Initiativen](https://digitaleinitiativen.at/initiativen/die-feinstaubgurke/)
-- [Feinstaubgurke PM2.5](/docs/FeinstaubgurkePM25.pdf)
+- [Feinstaub Plakat](/docs/FeinstaubgurkePM25.pdf)
 
 ---
 
