@@ -5,9 +5,9 @@
 Die **Feinstaubgurke** hat das Ziel, ein möglichst dichtes Netz an Feinstaub-Messpunkten in Dornbirn aufzubauen.  
 Mit den gewonnenen Daten möchten wir einen transparenten Überblick über die Luftqualität schaffen – direkt aus der Bevölkerung, für die Bevölkerung.  
 
-- https://feinstaubgurke.at
-- https://digitaleinitiativen.at/initiativen/die-feinstaubgurke/
-
+- [Website](https://feinstaubgurke.at)
+- [Plattform für digitale Initiativen](https://digitaleinitiativen.at/initiativen/die-feinstaubgurke/)
+- [Feinstaubgurke PM2.5](/docs/FeinstaubgurkePM25.pdf)
 
 ---
 
